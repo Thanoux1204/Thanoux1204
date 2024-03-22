@@ -29,8 +29,6 @@
 ## Comment me contacter
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehouy92380@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien_linkedin](https://www.linkedin.com/in/ethan-houy-6181981b9/))
-
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : Thanoux1204
 <!--
 **Thanoux1204/Thanoux1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
