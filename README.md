@@ -25,7 +25,7 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=thanoux1204&show_icons=true&theme=gruvbox)
 
-![Langages les plus utilisés]( )
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=thanoux1204)
 
 ## Comment me contacter
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehouy92380@gmail.com)
